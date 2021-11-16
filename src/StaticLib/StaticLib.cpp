@@ -4,7 +4,6 @@
 #include "StaticLib.h"
 #include <iostream>
 #include <vector>
-#include <format>
 
 using namespace std;
 
